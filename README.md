@@ -146,3 +146,8 @@ Public reports include online links; projects that are confidential or not publi
 | 137 | ccip | - |  |
 | 138 | HakutoraSusdfVault | - |  |
 | 139 | AmineSwap | - |  |
+| 140 | Omniboss | - |  |
+| 141 | Artifacts | - |  |
+
+
+
